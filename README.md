@@ -12,6 +12,8 @@ Python avec JupyterLab, Tableau Software
 [Datasets](https://files.data.gouv.fr/)  
 [Datagouv](https://www.data.gouv.fr/fr/datasets/demandes-de-valeurs-foncieres-geolocalisees/?reuses_page=6#/community-reuses)
 
+[A CREUSER](https://www.data.gouv.fr/fr/pages/donnees-energie/)
+
 ## ✅ Etapes :
 
 1) Nettoyage et analyse de la base de données
