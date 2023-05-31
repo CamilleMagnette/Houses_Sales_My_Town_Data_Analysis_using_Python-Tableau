@@ -22,4 +22,4 @@ Python avec JupyterLab, Tableau Software
 
 ### [🌸🌸 **LIEN PUBLIC TABLEAU SOFTWARE** 🌸🌸](https://public.tableau.com/app/profile/camille.magnette/viz/MarchedelimmobilierFrancheville/Histoire1)
 
-<img src="https://w7.pngwing.com/pngs/138/659/png-transparent-tableau-software-hd-logo.png" width=15% height=15%> 
+<img src="https://logowik.com/content/uploads/images/tableau-software.jpg" width=5% height=5%> 
