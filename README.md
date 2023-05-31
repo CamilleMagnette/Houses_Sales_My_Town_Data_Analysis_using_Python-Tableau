@@ -16,7 +16,7 @@ Python avec JupyterLab, Tableau Software
 
 1) Nettoyage et analyse de la base de données
 
-### [👨‍💻 **LIEN NOTEBOOK** 📊](https://github.com/CamilleMagnette/Regression_houses_sales/blob/main/Regression%20House%20sales%20-%20Camille%20Magnette.ipynb)
+### [👨‍💻 **LIEN NOTEBOOK TBC** 📊]()
   
 2) Réalisation d'une analyse visuelle avec Tableau Software :
 
