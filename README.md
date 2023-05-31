@@ -23,5 +23,5 @@ Python avec JupyterLab, Tableau Software
 
 2) Réalisation d'une analyse visuelle avec Tableau Software :
 
-### [<img src="https://logowik.com/content/uploads/images/tableau-software.jpg" width=4% height=4%>**LIEN PUBLIC TABLEAU SOFTWARE**<img src="https://logowik.com/content/uploads/images/tableau-software.jpg" width=4% height=4%>](https://public.tableau.com/app/profile/camille.magnette/viz/MarchedelimmobilierFrancheville/Histoire1)
+### [<img src="https://logowik.com/content/uploads/images/tableau-software.jpg" width=4% height=4%>**LIEN PUBLIC TABLEAU SOFTWARE**<img src="https://logowik.com/content/uploads/images/tableau-software.jpg" width=4% height=4%>](https://public.tableau.com/app/profile/camille.magnette/viz/MarchedelimmobilierFrancheville/IMMOBILIER?publish=yes)
 
