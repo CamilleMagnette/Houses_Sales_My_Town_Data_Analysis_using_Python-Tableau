@@ -12,7 +12,7 @@ Python avec JupyterLab, Tableau Software
 [Datasets](https://files.data.gouv.fr/)  
 [Datagouv](https://www.data.gouv.fr/fr/datasets/demandes-de-valeurs-foncieres-geolocalisees/?reuses_page=6#/community-reuses)
 
-[CONSOMMATION D'ENERGIE : à creuser](https://www.data.gouv.fr/fr/pages/donnees-energie/)
+[CONSOMMATION D'ENERGIE : à creuser](https://www.data.gouv.fr/fr/pages/donnees-energie/)  
 [PRIX DES LOYERS : à creuser](https://www.data.gouv.fr/fr/datasets/carte-des-loyers-indicateurs-de-loyers-dannonce-par-commune-en-2018/)
 
 ## ✅ Etapes :
