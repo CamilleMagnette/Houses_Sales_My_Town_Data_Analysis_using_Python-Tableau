@@ -21,3 +21,5 @@ Python avec JupyterLab, Tableau Software
 2) Réalisation d'une analyse visuelle avec Tableau Software :
 
 ### [🌸🌸 **LIEN PUBLIC TABLEAU SOFTWARE** 🌸🌸](https://public.tableau.com/app/profile/camille.magnette/viz/MarchedelimmobilierFrancheville/Histoire1)
+
+<img src="https://w7.pngwing.com/pngs/138/659/png-transparent-tableau-software-hd-logo.png" width=15% height=15%> 
