@@ -14,6 +14,7 @@ Python avec JupyterLab, Tableau Software
 
 [CONSOMMATION D'ENERGIE : à creuser](https://www.data.gouv.fr/fr/pages/donnees-energie/)  
 [PRIX DES LOYERS : à creuser](https://www.data.gouv.fr/fr/datasets/carte-des-loyers-indicateurs-de-loyers-dannonce-par-commune-en-2018/)
+[DIAGNOSTICS DPE : à creuser](https://data.ademe.fr/applications/dpe-v2-logements-existants-classes-energetiques?Date_%C3%A9tablissement_DPE=%222021-07-01%22,%222023-03-20%22&lat=46.19686578749179&lng=0.08662945560092794&zoom=4.584531670355817)
 
 ## ✅ Etapes :
 
