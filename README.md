@@ -2,8 +2,8 @@
 
 ## 🎯 Objectif du projet :
 
-Je mets actuellement en vente mon appartement à Francheville (69340) afin d'emmenager à Montpellier et acheter à nouveau : un super sujet d'analyse ! 
-Analyser le marché de l'immobilier dans la ville de Francheville
+Je mets actuellement en vente mon appartement à Francheville (69340) afin d'emmenager à Montpellier : un super sujet d'analyse ! 
+J'ai pu récupérer un jeu de données qui n'est pas parfait mais qui m'a permis de réaliser quelques analyses et pratiquer sur Tableau Software. 
 
 ## ⚙️ Outils principaux : 
 Python avec JupyterLab, Tableau Software 
